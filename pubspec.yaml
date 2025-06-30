@@ -1,0 +1,70 @@
+name: fintrack
+description: "FinTrack project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^9.1.0
+  dio: ^5.8.0+1
+  shared_preferences: ^2.2.2
+  equatable: ^2.0.7
+  intl: ^0.19.0
+  json_annotation: ^4.9.0
+  flutter_secure_storage: ^9.0.0
+  google_fonts: ^6.1.0
+  flutter_svg: ^2.0.9
+  app_links: 3.2.0
+  fl_chart: ^0.70.2
+  google_sign_in: ^6.3.0
+  url_launcher: ^6.3.1
+  share_plus: ^10.1.4
+  jwt_decode: ^0.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.15
+  json_serializable: ^6.9.4
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo/logo.png
+    - assets/logo/logo_android.png
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path_android: "assets/logo/logo_android.png"
+  image_path_ios: "assets/logo/logo.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/logo/logo_android.png"
+  adaptive_icon_padding: false
+  adaptive_icon_mask: false
+  min_sdk_android: 21
+  remove_alpha_ios: true
+  android_gravity: center
+  web:
+    generate: true
+    image_path: "assets/logo/logo.png"
+    background_color: "#FFFFFF"
+    theme_color: "#FFFFFF"
+  windows:
+    generate: true
+    image_path: "assets/logo/logo.png"
+    icon_size: 48
+  macos:
+    generate: true
+    image_path: "assets/logo/logo.png"
+

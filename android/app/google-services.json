@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "663807920764",
+    "project_id": "fintrack-1357c",
+    "storage_bucket": "fintrack-1357c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663807920764:android:d73e8726b0260ac3fe57f9",
+        "android_client_info": {
+          "package_name": "kz.finance.fintrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663807920764-fchdcgoiun4a7vptsci3e5i01rhqq9v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.finance.fintrack",
+            "certificate_hash": "f1b49ab10dee462ac83fd76322f80d8d23d5950e"
+          }
+        },
+        {
+          "client_id": "663807920764-tokuo8q1r1aeff801o7ljncon83jcuu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.finance.fintrack",
+            "certificate_hash": "07203a46d5a1389dfc3880f33403fe0bdff70921"
+          }
+        },
+        {
+          "client_id": "663807920764-i8k5osbt3ug04iotrr1cu4mgpfrbjb45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClypjFHoJ4H6yXYxta_Y26v6BvSdfm2-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663807920764-i8k5osbt3ug04iotrr1cu4mgpfrbjb45.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663807920764-fqsf7p68appvnlm7j2ig3sj46cklrdfr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kz.finance.fintrack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

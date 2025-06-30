@@ -1,0 +1,27 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: shzh1997
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    show-sql: true
+
+resend:
+  api:
+    key: ${RESEND_API_KEY}
+
+jwt:
+  secret: mySuperSecretKeyForJwtGeneration
+  expiration:
+    ms: 604800000  # 7 дней в миллисекундах
+
+google:
+  client:
+    web-client-id: 663807920764-i8k5osbt3ug04iotrr1cu4mgpfrbjb45.apps.googleusercontent.com
+    android-client-id: 663807920764-tokuo8q1r1aeff801o7ljncon83jcuu5.apps.googleusercontent.com
+    ios-client-id: 663807920764-fqsf7p68appvnlm7j2ig3sj46cklrdfr.apps.googleusercontent.com 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>663807920764-fqsf7p68appvnlm7j2ig3sj46cklrdfr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.663807920764-fqsf7p68appvnlm7j2ig3sj46cklrdfr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>663807920764-tokuo8q1r1aeff801o7ljncon83jcuu5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxMs2IxYl1lsJ1bW5X8CEPDplwJjm6XX4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>663807920764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kz.finance.fintrack</string>
+	<key>PROJECT_ID</key>
+	<string>fintrack-1357c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fintrack-1357c.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:663807920764:ios:2528d58e3ea68c34fe57f9</string>
+</dict>
+</plist>
